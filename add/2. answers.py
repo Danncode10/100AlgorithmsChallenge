@@ -13,6 +13,6 @@ class Solution:
 
 # ------ TEST ------#
 ans = Solution()
-print(ans.add(1, 2))             # Output: 3
+print(ans.add(1, 2))    # Output: 3
 print(ans.addAll(1, 2, 3, 4))    # Output: 10
 print(ans.addAll(-5, 15, 20))    # Output: 30
